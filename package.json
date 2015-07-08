@@ -1,6 +1,6 @@
 {
     "name": "amazon_iap",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Validates Amazon app store purchases (iap) using the amazon receipt verification service (rvs) to find out about current subscription details.",
     "main": "index.js",
     "scripts": {
